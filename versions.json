@@ -1,0 +1,7 @@
+{
+  "rk_factions": {
+    "version": "2.0.0",
+    "changes": "Complete script rewrite, brand new SQL structure, redesigned UI, new features, improved performance, and expanded functionality throughout the entire resource.",
+    "update": "Update the full script to v2.0.0. Existing SQL data will be automatically migrated and converted to the new database structure when the resource starts."
+  }
+}
