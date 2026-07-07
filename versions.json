@@ -1,7 +1,7 @@
 {
   "rk_factions": {
-    "version": "2.0.0",
-    "changes": "Complete script rewrite, brand new SQL structure, redesigned UI, new features, improved performance, and expanded functionality throughout the entire resource.",
-    "update": "Update the full script to v2.0.0. Existing SQL data will be automatically migrated and converted to the new database structure when the resource starts."
+    "version": "2.0.1",
+    "changes": "New framework and inventory support, configurable panel items, custom themes, Spanish locale, exports, validation improvements, and general quality-of-life updates.",
+    "update": "Replace the existing resource with the latest version. A fresh install is recommended."
   }
 }
