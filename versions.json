@@ -1,17 +1,19 @@
 {
   "rk_sdk": {
-    "version": "1.0.1",
-    "changes": "Added support for the latest rk_factions update, improved framework compatibility, and included various stability improvements and bug fixes.",
+    "version": "1.0.6",
+    "changes": "Added new helpers and improvements to support the latest rk_factions update, along with various stability fixes.",
     "update": "Replace the existing rk_sdk resource with this version before updating rk_factions."
   },
+
   "rk_factions": {
-    "version": "2.0.4",
-    "changes": "Refined and polished the faction UI, added the new Faction Freeze system for temporarily locking faction activity, introduced customizable Faction Mystery Boxes with a CS:GO-inspired opening UI, and included various performance improvements and bug fixes.",
-    "update": "Replace the existing resource with the latest version and ensure rk_sdk v1.0.1 or newer is installed before starting rk_factions."
+    "version": "2.0.6",
+    "changes": "Moved stashes directly into rk_factions, added faction stash management, optional CK permissions, stash gundrops, new sounds, and various organization and performance improvements.",
+    "update": "Replace the existing resource with the latest version and ensure rk_sdk v1.0.6 or newer is installed before starting rk_factions."
   },
+
   "rk_stashes": {
-    "version": "1.0.1",
-    "changes": "Initial release of rk_stashes. Adds faction stash functionality with ownership management, access control, and faction integration.",
-    "update": "Install this resource alongside rk_factions. This resource is included with rk_factions and is not currently available separately."
+    "version": "2.0.6",
+    "changes": "Moved into rk_factions and is no longer a separate resource.",
+    "update": "Remove the old rk_stashes resource. Stashes are now included directly with rk_factions."
   }
 }
