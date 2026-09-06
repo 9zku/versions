@@ -6,9 +6,9 @@
   },
 
   "rk_factions": {
-    "version": "2.0.6",
-    "changes": "Moved stashes directly into rk_factions, added faction stash management, optional CK permissions, stash gundrops, new sounds, and various organization and performance improvements.",
-    "update": "Replace the existing resource with the latest version and ensure rk_sdk v1.0.6 or newer is installed before starting rk_factions."
+    "version": "2.0.7",
+    "changes": "Added data converting options for other gang scripts",
+    "update": "Update server/db directory."
   },
 
   "rk_stashes": {
